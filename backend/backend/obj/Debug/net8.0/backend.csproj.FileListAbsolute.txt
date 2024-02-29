@@ -135,3 +135,4 @@ C:\Users\dell\Desktop\newapp\backend\backend\obj\Debug\net8.0\refint\backend.dll
 C:\Users\dell\Desktop\newapp\backend\backend\obj\Debug\net8.0\backend.pdb
 C:\Users\dell\Desktop\newapp\backend\backend\obj\Debug\net8.0\backend.genruntimeconfig.cache
 C:\Users\dell\Desktop\newapp\backend\backend\obj\Debug\net8.0\ref\backend.dll
+C:\Users\dell\Desktop\newapp\backend\backend\obj\Debug\net8.0\backend.sourcelink.json

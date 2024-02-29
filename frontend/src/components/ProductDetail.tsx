@@ -12,7 +12,7 @@ type ViewDetailsProps = {
   
   
   
-  const ViewDetail = ({
+  const ProductDetail = ({
     isOpen,
     onClose,
     currentData
@@ -64,4 +64,4 @@ type ViewDetailsProps = {
       </>
     )
   }
-export default ViewDetail
+export default ProductDetail

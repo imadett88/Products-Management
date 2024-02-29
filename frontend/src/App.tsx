@@ -7,8 +7,7 @@ import { useEffect, useState } from 'react';
 import { Product } from './model/product';
 import RefreshProduct from './components/RefreshProduct';
 import ProductForm from './components/ProductForm';
-import ProductDetails from './components/ViewDetail';
-import ViewDetail from './components/ViewDetail';
+import ProductDetail from './components/ProductDetail';
 
 function App() {
 
@@ -200,7 +199,7 @@ function App() {
       />}
 
 
-      {viewDialogOpen && <ViewDetail 
+      {viewDialogOpen && <ProductDetail 
          isOpen={viewDialogOpen}
          onClose={viewDialogClose}
          currentData={currentData}
